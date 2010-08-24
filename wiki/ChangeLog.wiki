@@ -1,4 +1,9 @@
-= Change Log =
+== Upcoming Version ==
+
+  * Droid Eris support.
+  * Log file.
+  * New design.
+  * Update button.
 
 == 0.13 ==
 
