@@ -1,0 +1,5 @@
+= Change Log =
+
+== 0.13 ==
+
+  * Added HTC Desire support (probably other HTC devices as well)
