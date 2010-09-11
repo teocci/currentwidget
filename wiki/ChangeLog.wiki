@@ -1,3 +1,8 @@
+== Upcoming ==
+
+  * Log in csv format
+  * Battery level in log
+
 == 0.14 ==
 
   * Droid Eris support.
