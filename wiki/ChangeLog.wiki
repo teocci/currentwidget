@@ -1,7 +1,7 @@
 == Upcoming ==
 
-  * Log in csv format
-  * Battery level in log
+  * Log battery level
+  * Log running applications
 
 == 0.14 ==
 
