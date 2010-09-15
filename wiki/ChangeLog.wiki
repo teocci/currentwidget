@@ -1,4 +1,4 @@
-== Upcoming ==
+== 0.15 ==
 
   * Log battery level
   * Log running applications
