@@ -1,5 +1,6 @@
 == Upcoming ==
   * xdandroid support
+  * View log button
 
 == 0.15 ==
 
