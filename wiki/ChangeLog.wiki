@@ -1,6 +1,10 @@
 == Upcoming ==
   * xdandroid support
+  * Samsung Vibrant support (charge current only)
   * View log button
+  * Optional arithmetic operation on value
+  * Updated look
+
 
 == 0.15 ==
 
