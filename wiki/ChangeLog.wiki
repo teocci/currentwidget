@@ -1,4 +1,4 @@
-== Upcoming ==
+== 0.16 ==
   * xdandroid support
   * Samsung Vibrant support (charge current only)
   * View log button
