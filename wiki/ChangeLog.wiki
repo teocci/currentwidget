@@ -1,3 +1,7 @@
+== Upcoming ==
+  * Landscape fixes
+  * Larger update button 
+
 == 0.16 ==
   * xdandroid support
   * Samsung Vibrant support (charge current only)
