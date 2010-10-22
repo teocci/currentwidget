@@ -1,6 +1,7 @@
 == Upcoming ==
   * Landscape fixes
   * Larger update button 
+  * Bug fixes
 
 == 0.16 ==
   * xdandroid support
