@@ -1,7 +1,11 @@
 == Upcoming ==
-  * Landscape fixes
-  * Larger update button 
-  * Bug fixes
+  * HTC Desire HD support
+  * Sony Ericsson X1 support
+  * Larger update button   
+
+
+== 0.17 ==
+  * Fixed widget updates after delete
 
 == 0.16 ==
   * xdandroid support
