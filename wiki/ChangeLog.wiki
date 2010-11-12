@@ -1,3 +1,6 @@
+== 0.19 ==
+  * Landscape layout
+
 == 0.18 ==
   * HTC Desire HD support
   * Sony Ericsson X1 support
