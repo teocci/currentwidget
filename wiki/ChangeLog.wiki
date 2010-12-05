@@ -1,7 +1,8 @@
-== Upcoming ==
+== 0.2 ==
 
-  * Moving configuration to launcher
-  * Larger clickable area to "update now"
+  * New configuration layout
+  * Added configuration icon to launcher
+  * Click on "Last Update" also updates widget
 
 == 0.19 ==
   * Landscape layout
