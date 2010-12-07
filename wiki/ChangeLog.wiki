@@ -1,3 +1,7 @@
+== 0.21 ==
+
+  * Fixed regression bug
+
 == 0.2 ==
 
   * New configuration layout
