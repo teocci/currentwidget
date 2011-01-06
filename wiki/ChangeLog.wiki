@@ -1,7 +1,6 @@
 == Upcoming ==
 
   * Clear log
-  * Hide widget's background
   * View log as graph
  
 
