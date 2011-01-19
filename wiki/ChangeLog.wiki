@@ -1,3 +1,7 @@
+== Upcoming ==
+  * Bug fix
+  * Option to stop widget updates
+
 == 0.22 ==
 
   * Clear log
