@@ -1,4 +1,4 @@
-== Upcoming ==
+== 0.23  ==
   * Bug fix
   * Option to stop widget updates
 
