@@ -1,3 +1,7 @@
+== 0.24 ==
+  * Battery level (%) display
+  * Bug fix
+
 == 0.23  ==
   * Bug fix
   * Option to stop widget updates
