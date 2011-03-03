@@ -1,3 +1,7 @@
+== Upcoming ==
+  * Option to select which data to show on widget
+  * Selecting only one value will cause configuration launch on touch
+
 == 0.24 ==
   * Battery level (%) display
   * Bug fix
