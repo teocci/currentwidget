@@ -1,4 +1,7 @@
 == Upcoming ==
+  * Transparent Text Layout
+
+== 0.25 ==
   * Option to select which data to show on widget
   * Selecting only one value will cause configuration launch on touch
 
