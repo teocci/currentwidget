@@ -1,5 +1,6 @@
-== Upcoming ==
+== 0.26 ==
   * Transparent Text Layout
+  * Confirmation before clearing log
 
 == 0.25 ==
   * Option to select which data to show on widget
