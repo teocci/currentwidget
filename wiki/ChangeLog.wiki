@@ -1,3 +1,9 @@
+== 0.27 ==
+  Added support for the following devices:
+  * HTC Inspire 4G
+  * Nook Color
+  * Nexus One CyanogenMod Battery Driver (refreshed every 2.5 seconds)
+
 == 0.26 ==
   * Transparent Text Layout
   * Confirmation before clearing log
