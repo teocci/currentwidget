@@ -1,3 +1,8 @@
+== Upcoming ==
+  * Honeycomb support
+  * HTC Sensation support
+  * Analyze log options
+
 == 0.28 ==
   * Voltage information
   * Option to force log when device is sleeping
