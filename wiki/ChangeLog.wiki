@@ -1,7 +1,9 @@
 == Upcoming ==
   * Honeycomb support
   * HTC Sensation support
+  * HTC Evo 3D support
   * Analyze log options
+  * Option to log only when phone isn't charging
 
 == 0.28 ==
   * Voltage information
