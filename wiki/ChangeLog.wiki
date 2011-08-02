@@ -1,7 +1,7 @@
-== Upcoming ==
+== 0.3 ==
   * Added option to change text color 
   * New analyze option - count current values
-  * Improved log scanning speed
+  * Improved log read speed
 
 == 0.29 ==
   * Honeycomb support
