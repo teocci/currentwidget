@@ -1,5 +1,6 @@
 == Upcoming ==
   * Added option to change text color 
+  * New analyze option - count current values
 
 == 0.29 ==
   * Honeycomb support
