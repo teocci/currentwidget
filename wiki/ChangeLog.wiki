@@ -1,3 +1,13 @@
+== 0.31a ==
+
+  * Acer Iconia A500 Tab support
+  * Motorola Triumph support
+  * Partial Motorola Atrix support (charge only)
+
+== 0.31 ==
+
+  * Sony Xperia Arc support
+
 == 0.3 ==
   * Added option to change text color 
   * New analyze option - count current values
