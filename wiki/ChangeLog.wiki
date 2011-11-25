@@ -1,3 +1,6 @@
+== 0.32 ==
+  * Notification - alerts on high current values
+
 == 0.31a ==
 
   * Acer Iconia A500 Tab support
