@@ -1,3 +1,10 @@
+== 0.33 ==
+  * HTC Wildfire S support
+  * New customization options for text view
+  * Show/Hide last update time
+  * Show/Hide update button
+  * Show all selected views at once
+
 == 0.32 ==
   * Notification - alerts on high current values
 
