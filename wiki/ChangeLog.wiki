@@ -3,7 +3,7 @@
   * New customization options for text view
   * Show/Hide last update time
   * Show/Hide update button
-  * Show all selected views at once
+  * Show all selected views
 
 == 0.32 ==
   * Notification - alerts on high current values
