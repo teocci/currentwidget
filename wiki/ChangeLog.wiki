@@ -1,6 +1,8 @@
 == 0.34 ==
   * HTC EVO View Tablet support
   * Viewsonic gTablet support
+  * Exclusions options for high current notification (thanks Tony)
+  * Updated aChartEngine - Zoom & Pan support in graph
 
 == 0.33 ==
   * HTC Wildfire S support
