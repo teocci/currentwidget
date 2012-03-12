@@ -1,6 +1,6 @@
 == Upcoming ==
   * Added Battery Temperature view
-  * Re-organized settings menus
+
 
 == 0.34 ==
   * HTC EVO View Tablet support
