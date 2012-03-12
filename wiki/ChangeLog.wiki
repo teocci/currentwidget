@@ -1,5 +1,5 @@
 == Upcoming ==
-  + Battery Temperature view
+  * Added Battery Temperature view
   * Re-organized settings menus
 
 == 0.34 ==
