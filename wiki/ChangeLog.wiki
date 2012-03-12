@@ -1,3 +1,6 @@
+== Upcoming ==
+  + Battery Temperature view
+
 == 0.34 ==
   * HTC EVO View Tablet support
   * Viewsonic gTablet support
