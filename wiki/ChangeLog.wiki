@@ -4,7 +4,6 @@
   * Added support for Samsung Galaxy Note (charge current only)
   * Added support for  LG Optimus S (charge current only)
   * Fixed HTC One X values
-  * Various bug fixes
 
   
 == 0.35 ==
