@@ -1,5 +1,5 @@
 == 0.36 ==
-  * Android Backup Service - Auto backup and restore of your settings
+  * Android Backup Service - Auto restore of your settings on new installation
   * Updated layouts for ICS padding
   * Added support for Samsung Galaxy Note (charge current only)
   * Added support for  LG Optimus S (charge current only)
