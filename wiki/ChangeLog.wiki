@@ -1,3 +1,7 @@
+== 0.36c ==
+  * Samsung Galaxy S 3 support (charge current only)
+  * Bug fix
+
 == 0.36 ==
   * Android Backup Service - Auto-restores your settings on new installations
   * Updated layouts for ICS padding
