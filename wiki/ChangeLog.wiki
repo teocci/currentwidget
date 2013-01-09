@@ -1,5 +1,4 @@
 == 0.37 ==
-
 * Widget types (text or classic) are now two separate widgets in the widgets list. Please remove and re-add widget or uninstall and re-install if you are having problems after the update.
 
 * Support for CurrentWidget (text) as a lock screen widget (Android 4.2+).
