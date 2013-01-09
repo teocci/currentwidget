@@ -1,5 +1,13 @@
 == 0.37 ==
   * !!! Widget types (text or classic) are now two separate widgets in the widgets list. Please remove and re-add widget or uninstall and re-install if you are having problems after the update.
+  * Support for CurrentWidget (text) as a lock screen widget (Android  4.2+).
+  * Added temperature to log.
+  * Renamed custom operation setting to "Normalize Current Value".
+  * Option to change text sizes for text widget (Android 4.1+).
+  * Text widget is now resizable (Android 4.0+).
+  * Samsung Galaxy Note 2 support.
+  * Xperia U support (charge current only).
+
 
 == 0.36c ==
   * Samsung Galaxy S 3 support (charge current only)
