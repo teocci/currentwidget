@@ -1,5 +1,5 @@
 == 0.37 ==
-  * !!! Widget types (text or classic) are now two separate widgets in the widgets list. Please remove and re-add widget or uninstall and re-install if you are having problems after the update.
+  * !!! Widget types (text or classic) are now two separate widgets in the widgets list. If you are having problems after the update, then please remove and re-add widget or uninstall and re-install.
   * Support for CurrentWidget (text) as a lock screen widget (Android  4.2+).
   * Added temperature to log.
   * Renamed custom operation setting to "Normalize Current Value".
