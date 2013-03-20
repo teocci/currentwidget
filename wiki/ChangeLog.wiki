@@ -1,3 +1,7 @@
+== 0.38 ==
+  * Option to show a persistent notification with all information from widget.
+  * Fixed Nexus 4 charging icon bug.
+
 == 0.37 ==
   * !!! Widget types (text, classic) are now two separate widgets in the widgets list. If you are having problems after the update, please remove and re-add widget or uninstall and re-install.
   * Support for CurrentWidget (text) as a lock screen widget (Android  4.2+).
